@@ -54,9 +54,13 @@ AutoMatrix uses Terraform to:
 CloudCorp V3 → Compare Costs → Select CSP
 
 |
+
 v
+
 Tenant Tenacious → Monitor CSP → Switch if needed
 
 |
+
 v
+
 AutoMatrix → Terraform Infra → Kubernetes Setup → App Deployment
